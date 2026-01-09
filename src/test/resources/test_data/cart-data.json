@@ -1,0 +1,23 @@
+{
+  "product": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  "product1": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "2",
+    "total": "Rs. 1000"
+  },
+  "product2": {
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "quantity": "1",
+    "total": "Rs. 1200"
+  },
+  "messages": {
+    "cartAdded": "Your product has been added to cart."
+  }
+}
